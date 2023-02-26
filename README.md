@@ -1,8 +1,7 @@
 # RECONNAISSANCE-DES-EMOTIONS/EMOTION-RECOGNITION
+  Emotion recognition using AI is a technology that involves using machine learning algorithms to analyze and identify human emotions from various sources such as facial expressions, voice tone, and body language.
 
-    Emotion recognition using AI is a technology that involves using machine learning algorithms to analyze and identify human emotions from various sources such as facial expressions, voice tone, and body language.
-
-    This project will present two methods for emotion detection using both Deep Learning and Machine Learning
+  This project will present two methods for emotion detection using both Deep Learning and Machine Learning
 
 ## First Project: Real time Emotion detection Using DeepFace:
 
@@ -13,11 +12,11 @@ __requirements__
 
 Libraries:
 
-    OpenCV
+  OpenCV
 
-    DeepFace a library built on top of the Keras.
+  DeepFace a library built on top of the Keras.
     
-    matplotlib
+  matplotlib
     
 haarcascade_frontalface_default.xml file, can be found in ( https://github.com/kipr/opencv/tree/master/data/haarcascades )
 
