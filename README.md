@@ -5,7 +5,7 @@
 
 ## First Project: Real time Emotion detection Using DeepFace:
 
-    DeepFace is a deep learning facial recognition algorithm developed by Facebook's AI research team.
+  DeepFace is a deep learning facial recognition algorithm developed by Facebook's AI research team.
 In this project we will do a Real-time emotion detection using DeepFace to detect emotions in live video streams or video frames in real-time. 
 
 __requirements__
