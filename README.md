@@ -20,6 +20,6 @@ Libraries:
     
 haarcascade_frontalface_default.xml file, can be found in ( https://github.com/kipr/opencv/tree/master/data/haarcascades )
 
-feel free to run the notebook "Emotion recognition using DeepFace"
+feel free to run the notebook "Real time Emotion recognition using DeepFace"
 
 
