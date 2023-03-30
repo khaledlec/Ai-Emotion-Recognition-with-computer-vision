@@ -3,7 +3,7 @@
 
   This project will present two methods for emotion detection using both Deep Learning and Machine Learning
 
-## First Project: Real time Emotion detection Using DeepFace:
+## First Method: Real time Emotion detection Using DeepFace:
 
   DeepFace is a deep learning facial recognition algorithm developed by Facebook's AI research team.
 In this project we will do a Real-time emotion detection using DeepFace to detect emotions in live video streams or video frames in real-time. 
@@ -22,7 +22,7 @@ haarcascade_frontalface_default.xml file, can be found in ( https://github.com/k
 
 feel free to run the notebook __Real time Emotion recognition using DeepFace__ and test it in your computer
 
-## Second Project: AN End-to-End Emotion Recognition Estimator Done by training and deploying a ML model based on Dynamic Time Warping and logistic regression.
+## Second method: AN End-to-End Emotion Recognition Estimator Done by training and deploying a ML model based on Dynamic Time Warping and logistic regression.
 
 __Training and deploying a supervised classification model that uses DTW to recognize emotions from body joint signals during gesturing. This project includes an end-to-end workflow that covers data collection, pre-processing, feature extraction, DTW-based pattern matching, and emotion classification. The resulting model can be deployed in real-world settings, such as human-robot interaction or virtual reality scenarios, to recognize emotions expressed through gestures in real-time.__
 
