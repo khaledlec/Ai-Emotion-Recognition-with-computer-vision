@@ -26,7 +26,7 @@ feel free to run the notebook __Real time Emotion recognition using DeepFace__ a
 ## Second method: AN End-to-End Emotion Recognition Estimator based on body language.
 
 
-### __training and deploying an Gesture-based large language model based on Dynamic Time Warping and logistic regression.__
+### __training and deploying a Gesture-based large language model based on Dynamic Time Warping and logistic regression.__
 
 __This project includes an end-to-end workflow that covers data collection, pre-processing, feature extraction, DTW-based pattern matching, and emotion classification. The resulting model can be deployed in real-world settings, such as human-robot interaction or virtual reality scenarios, to recognize emotions expressed through gestures in real-time.__
 
